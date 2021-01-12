@@ -49,7 +49,7 @@
           <configuration>
             <archive>
               <manifest>
-                <mainClass>edu.eskisehir.hellojar.App</mainClass>
+                <mainClass>edu.eskisehir.hellojar.Main</mainClass>
               </manifest>
             </archive>
           </configuration>
